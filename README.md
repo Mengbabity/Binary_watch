@@ -7,3 +7,6 @@ if the digit equals to the num,add the time into the List<String>.
 还有String.format(),String类的format()方法用于创建格式化的字符串以及连接多个字符串对象。
 
 #C++
+the method is same to java.The difference is the using of bitset<n>.
+Using bitset<n>(i).count() to get the digit of each time.
+bitset和vector一样是模板。以及用到了优于push_back的emplace_back。
